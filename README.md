@@ -140,16 +140,9 @@ Edge fire detection on a Raspberry Pi Zero W using a lightweight scikit-learn mo
 
 <br/>
 
-## GitHub Stats
+## Trophy Case
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PRANJALnim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANJALnim&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-
-### 🏆 Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=PRANJALnim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
