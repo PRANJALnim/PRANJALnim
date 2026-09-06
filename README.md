@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hey,%20I'm%20PRANJALnim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20tinkerer%20%E2%80%A2%20Builder%20of%20things%20that%20run%20close%20to%20the%20metal&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Pranjal%20Nimbodiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Databases+%E2%80%A2+Terminals+%E2%80%A2+Operating+Systems;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;I+like+building+things+from+scratch;Currently+poking+holes+in+CPUs+%F0%9F%94%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Databases+%E2%80%A2+Terminals+%E2%80%A2+Operating+Systems;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;Working+on+CPU+security+experiments" alt="Typing SVG" />
 
 </div>
 
@@ -33,12 +33,11 @@
 
 ## About
 
-I build things at every layer of the stack — from a **custom Xlib terminal emulator** and a **C++ SQL-like database engine**, to poking at how CPUs leak secrets under speculation, to full-stack web apps and edge ML on Raspberry Pi.
+Working across a terminal emulator, a SQL-like database engine, CPU security experiments, full-stack web apps, and edge ML on Raspberry Pi.
 
-- 🔭 Currently digging into **transient-execution attacks** (Spectre/Meltdown-style) and how hardware defenses like **DOLMA** hold up on the gem5 simulator
-- 🧠 Into **systems programming, computer architecture, and security**
-- 🛠️ Comfortable across **C, C++, Python, and JavaScript**
-- ⚡ Fun fact: I'd rather write a terminal emulator from scratch than configure one
+- Currently looking into transient-execution attacks (Spectre/Meltdown-style) and how hardware defenses like DOLMA hold up on the gem5 simulator
+- Interested in systems programming, computer architecture, and security
+- Work primarily in C, C++, Python, and JavaScript
 
 <br/>
 
