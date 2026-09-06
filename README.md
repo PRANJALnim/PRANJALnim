@@ -1,17 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+%26+Security-Minded+Engineer;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;Building+databases%2C+terminals%2C+and+attacks+on+CPUs;M.Tech+Researcher+%40+Microarchitectural+Security" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hey,%20I'm%20PRANJALnim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20tinkerer%20%E2%80%A2%20Builder%20of%20things%20that%20run%20close%20to%20the%20metal&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Databases+%E2%80%A2+Terminals+%E2%80%A2+Operating+Systems;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;I+like+building+things+from+scratch;Currently+poking+holes+in+CPUs+%F0%9F%94%A9" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PRANJALnim/PRANJALnim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/PRANJALnim/PRANJALnim/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+
+</div>
 
 <div align="center">
   <a href="https://github.com/PRANJALnim?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/PRANJALnim/mtp-project">
-    <img src="https://img.shields.io/badge/Research-Microarchitecture-F78166?style=for-the-badge&logo=chip&logoColor=white" />
+    <img src="https://img.shields.io/badge/CPU%20Security-Speculative%20Execution-F78166?style=for-the-badge&logo=chip&logoColor=white" />
+  </a>
+  <a href="https://github.com/PRANJALnim/FLEXQL">
+    <img src="https://img.shields.io/badge/Systems-Databases%20%26%20Terminals-3FB950?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
 </div>
 
@@ -19,10 +33,10 @@
 
 ## About
 
-I build things at every layer of the stack — from a **custom Xlib terminal emulator** and a **C++ SQL-like database engine**, to **speculative-execution attack research** on gem5, to full-stack web apps and edge ML on Raspberry Pi.
+I build things at every layer of the stack — from a **custom Xlib terminal emulator** and a **C++ SQL-like database engine**, to poking at how CPUs leak secrets under speculation, to full-stack web apps and edge ML on Raspberry Pi.
 
-- 🔭 Currently researching **transient execution attacks** (Spectre/Meltdown variants) against **DOLMA** hardware mitigations on the gem5 simulator
-- 🧠 Interested in **systems programming, computer architecture, and security**
+- 🔭 Currently digging into **transient-execution attacks** (Spectre/Meltdown-style) and how hardware defenses like **DOLMA** hold up on the gem5 simulator
+- 🧠 Into **systems programming, computer architecture, and security**
 - 🛠️ Comfortable across **C, C++, Python, and JavaScript**
 - ⚡ Fun fact: I'd rather write a terminal emulator from scratch than configure one
 
@@ -53,17 +67,17 @@ A feature-rich terminal emulator built from scratch with **Xlib** — tabs, pipe
 <td width="50%" valign="top">
 
 ### 🛡️ [Store-To-Load-Forwarding-Attack](https://github.com/PRANJALnim/Store-To-Load-Forwarding-Attack)
-Research into how store-to-load forwarding aliasing can leak secret data through speculative execution and cache side channels.
+How store-to-load forwarding aliasing can leak secret data through speculative execution and cache side channels.
 
-`C` `Security` `Microarchitecture`
+`C` `Security` `CPU Internals`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [M.Tech Project — gem5 × DOLMA](https://github.com/PRANJALnim/mtp-project)
+### 🔬 [gem5 × DOLMA Evaluation](https://github.com/PRANJALnim/mtp-project)
 Evaluating Spectre/Meltdown-class attacks against a baseline processor and four **DOLMA** data-oblivious hardware mitigations using the **gem5** simulator.
 
-`C` `gem5` `Security Research`
+`C` `gem5` `CPU Security`
 
 </td>
 </tr>
@@ -135,12 +149,18 @@ Edge fire detection on a Raspberry Pi Zero W using a lightweight scikit-learn mo
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRANJALnim&theme=tokyonight&hide_border=true" />
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=PRANJALnim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
 </div>
 
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 *Thanks for stopping by — dig into the code, that's where the real story is.*
 
